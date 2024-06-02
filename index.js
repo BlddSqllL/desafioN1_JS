@@ -1,3 +1,6 @@
+//Una mezcla de lo aprendido en clases mas youtube.
+//No logre entender el como aplicar el metodo que uds. pidieron
+
 let precio = 400000
 
 let cantidadElemento = document.querySelector(".cantidad");
